@@ -1,0 +1,57 @@
+.heading {
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+  font-size: 10px;
+  font-family: 'Palette Mosaic', cursive;
+  padding-bottom: 80px;
+  margin-top: 0px;
+}
+
+#image {
+ height: 300px;
+ width: 200px;
+ border-radius: 20px;
+}
+#image_div {
+    background-color: grey;
+    height: 80%;
+    border-radius: 20px;
+    width: 50%;
+    margin-top: 10px;
+    position: relative; 
+}
+#google_lens_result {
+  margin-left: 0px;
+  margin-bottom: 0px;
+ background-color: white;
+ box-shadow: 5px 5px 5px grey;
+ border-radius: 10px;
+ width: 45%;
+ height: 20px;
+ text-align: center;
+}
+#mobilenet_result {
+  margin-left: 0px;
+  box-shadow: 5px 5px 5px grey;
+  background-color: white;
+  width: 45%;
+ height: 20px;
+ border-radius: 10px;
+
+ text-align: center;
+}
+#one {
+  font-size: 20px;
+}
+.copy_right_footer {
+  position: fixed;
+  color: white;
+  bottom: 0px;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+  font-size: 20px;
+}
