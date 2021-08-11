@@ -55,3 +55,11 @@
   font-family: 'Teko', sans-serif;
   font-size: 20px;
 }
+.final_result {
+  margin-bottom: 100px;
+  background-color: grey;
+  border-radius: 20px;
+  text-align: center;
+  width: 40%;
+  margin-left: 400px;
+}
